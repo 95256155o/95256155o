@@ -2,6 +2,10 @@
 
 <img src="https://raw.githubusercontent.com/95256155o/95256155o/main/avatar.gif" width="256" />
 
-### 我在中国是中国人，我在美国是美国人——因为我写的代码最牛逼。
+### 此生无悔入华夏，来世还做中国人！
+*——致力讲好中国故事传播华夏文明贡献开源社区*
+
+### Long live democracy! 🇺🇸
+*US resident and open-source contributor!*
 
 </div>
